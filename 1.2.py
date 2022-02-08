@@ -1,3 +1,4 @@
+!pip install celluloid
 import numpy as np
 from celluloid import Camera
 import matplotlib.pyplot as plt
