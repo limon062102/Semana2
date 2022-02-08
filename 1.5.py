@@ -1,10 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
-get_ipython().system('pip install wget')
+'pip install wget'
 import numpy as np
 import matplotlib.pyplot as plt
 import scipy.io.wavfile as wav
